@@ -6,8 +6,8 @@ This is a project done at the Faculty of Physical Sciences and Mathematics (fcfm
 
 | # | Input           | Description                                                                  |
 |---|-----------------|------------------------------------------------------------------------------|
-| 0 | none            | -                                                                            |
-| 1 | none            | -                                                                            |
+| 0 | clock           | clock for the counter                                                        |
+| 1 | reset           | reset counter                                                                |
 | 2 | none            | -                                                                            |
 | 3 | counter_disable | disables the counter output and uses the 4th-7th input as the counter value. |
 | 4 | A               | most significant bit of the counter                                          |
