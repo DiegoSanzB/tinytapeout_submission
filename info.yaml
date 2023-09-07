@@ -36,8 +36,8 @@ documentation:
 
 # A description of what the inputs do (e.g. red button, SPI CLK, SPI MOSI, etc).
   inputs:               
-    - none
-    - none
+    - clock
+    - reset
     - none
     - counter_disable
     - A (most significant bit of the counter)
